@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hand_Thumb
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Fist
+    m_Weight: 0
+  - m_Path: Fist_Frame0
+    m_Weight: 0
+  - m_Path: group
+    m_Weight: 1
+  - m_Path: group/pasted__HandControl
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__index_knockle
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__index_knockle/pasted__index1
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__index_knockle/pasted__index1/pasted__index2
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__index_knockle/pasted__index1/pasted__index2/pasted__index3
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__middle_knockle
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__middle_knockle/pasted__middle1
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__middle_knockle/pasted__middle1/pasted__middle2
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__middle_knockle/pasted__middle1/pasted__middle2/pasted__middle3
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__pinky_knockle
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__pinky_knockle/pasted__pnky1
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__pinky_knockle/pasted__pnky1/pasted__pnky2
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__pinky_knockle/pasted__pnky1/pasted__pnky2/pasted__pnky3
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__ring_knockle
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__ring_knockle/pasted__ring1
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__ring_knockle/pasted__ring1/pasted__ring2
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__ring_knockle/pasted__ring1/pasted__ring2/pasted__ring3
+    m_Weight: 0
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__thumb_Knockle
+    m_Weight: 1
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__thumb_Knockle/pasted__thumb1
+    m_Weight: 1
+  - m_Path: group/pasted__HandControl/pasted__arm/pasted__wrist/pasted__thumb_Knockle/pasted__thumb1/pasted__thumb2
+    m_Weight: 1
+  - m_Path: nurbsCircle1
+    m_Weight: 0
+  - m_Path: polySurface393
+    m_Weight: 0
